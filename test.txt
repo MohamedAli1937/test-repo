@@ -1,1 +1,7 @@
-This is a test file.  
+RAG-TEST-2026
+
+This is a test file for the 0-LA repository synchronization and RAG system.
+
+Important test fact: the test environment uses the code name RAG-TEST-2026.
+
+The expected behavior is that 0-LA synchronizes this file, creates a document chunk, generates an embedding, and retrieves this information when asked a relevant question.
