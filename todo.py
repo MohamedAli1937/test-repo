@@ -4,7 +4,7 @@ def add_task(tasks, task):
     tasks.append(task)
     return tasks
 
-def delete_task(tasks, task):
+def remove_task(tasks, task):
     if task in tasks:
         tasks.remove(task)
     return tasks
